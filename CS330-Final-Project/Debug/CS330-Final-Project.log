@@ -1,0 +1,15 @@
+﻿  Biscuit.cpp
+  Packet.cpp
+  Source.cpp
+C:\Users\Austin\Documents\School Stuff\CS330\CS330-Final-Project\CS330-Final-Project\Source.cpp(109,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Austin\Documents\School Stuff\CS330\CS330-Final-Project\CS330-Final-Project\Source.cpp(248,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Austin\Documents\School Stuff\CS330\CS330-Final-Project\CS330-Final-Project\Source.cpp(255,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Austin\Documents\School Stuff\CS330\CS330-Final-Project\CS330-Final-Project\Source.cpp(256,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Austin\Documents\School Stuff\CS330\CS330-Final-Project\CS330-Final-Project\Source.cpp(261,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Austin\Documents\School Stuff\CS330\CS330-Final-Project\CS330-Final-Project\Source.cpp(262,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Austin\Documents\School Stuff\CS330\CS330-Final-Project\CS330-Final-Project\Source.cpp(265,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Austin\Documents\School Stuff\CS330\CS330-Final-Project\CS330-Final-Project\Source.cpp(266,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  CS330-Final-Project.vcxproj -> C:\Users\Austin\Documents\School Stuff\CS330\CS330-Final-Project\Debug\CS330-Final-Project.exe
+  C:\Users\Austin\Documents\School Stuff\CS330\CS330-Final-Project\bin\glew-2.2.0\Release\x64\glew32.dll
+  1 File(s) copied
